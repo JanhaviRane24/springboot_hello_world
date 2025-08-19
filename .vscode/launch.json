@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloWorldProgramApplication<hello_world_program>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.helloworldspring.hello_world_program.HelloWorldProgramApplication",
+            "projectName": "hello_world_program",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
